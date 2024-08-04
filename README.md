@@ -10,4 +10,4 @@ You can change some constants (width, height, damping factor, mass, spring const
 that our soft body is in an ideal world where air resistance, friction, and pressure doesn't exits, but there is an automatic gravity applied. The user can also use the 
 arrow keys to apply external forces and observe how the soft body behaves under these forces.
 
-You can find a demo ![here](https://glowscript.org/#/user/trawalphysics/folder/MyPrograms/program/bouncyjelly).
+You can find a demo [here](https://glowscript.org/#/user/trawalphysics/folder/MyPrograms/program/bouncyjelly).
