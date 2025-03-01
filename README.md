@@ -7,7 +7,7 @@ The simulation aims to demonstrate the behavior of deformable objects under exte
 stretch, compress, and (seemingly) bend while still maintaining its rigid nature just like how soft body objects (like jelly) would behave in the real world. 
 
 You can change some constants (width, height, damping factor, mass, spring constant, and spring length) to mess around and see how that affects the soft body. We assume
-that our soft body is in an ideal world where air resistance, friction, and pressure doesn't exits, but there is an automatic gravity applied. The user can also use the 
+that our soft body is in an ideal world where air resistance, friction, and pressure don't exist, but there is an automatic gravity applied. The user can also use the 
 arrow keys to apply external forces and observe how the soft body behaves under these forces.
 
 You can find a demo [here](https://glowscript.org/#/user/trawalphysics/folder/MyPrograms/program/bouncyjelly).
